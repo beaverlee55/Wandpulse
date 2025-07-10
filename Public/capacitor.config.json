@@ -1,0 +1,6 @@
+{
+  "appId": "com.wander.pulse",
+  "appName": "Wanderpulse",
+  "webDir": "public",
+  "bundledWebRuntime": false
+}

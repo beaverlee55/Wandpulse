@@ -1,0 +1,11 @@
+{
+  "name": "pulsewand",
+  "version": "1.0.0",
+  "description": "WanderWatch \u2013 EMF Tracker (Capacitor)",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
